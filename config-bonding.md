@@ -31,3 +31,8 @@
   + <img src="https://i.imgur.com/oedaAfb.png">
   + **ip a**
   + <img src="https://i.imgur.com/UOxEVhz.png">
+- Ping xem thế nào 
+  + <img src="https://i.imgur.com/H0QxKws.png">
+  + Bây giờ cho **DOWN** một card mạng 
+  + <img src="https://i.imgur.com/alpHhTT.png">
+  + Thử lại <img src="https://i.imgur.com/C9lQVyK.png">
